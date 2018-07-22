@@ -17,3 +17,9 @@ ul {
     position: absolute;
     width: 300px;
 }
+
+.flex{
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+}

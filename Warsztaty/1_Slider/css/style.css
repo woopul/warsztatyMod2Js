@@ -1,5 +1,9 @@
+
+
 .slider ul{
     list-style: none;
+    width: 400px;
+    height: 200px;
 }
 
 .slider li{
@@ -9,3 +13,4 @@
 .slider .visible{
     display: inline-block;
 }
+
